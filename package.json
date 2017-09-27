@@ -28,11 +28,15 @@
     {
       "name": "Sebastian Mayr",
       "website": "https://github.com/Sebmaster"
+    },
+    {
+      "name": "Justin Ferguson",
+      "website": "https://github.com/jcfergus"
     }
   ],
   "license": "BSD-3-Clause",
-  "name": "tough-cookie",
-  "description": "RFC6265 Cookies and Cookie Jar for node.js",
+  "name": "tough-cookie-nativescript",
+  "description": "RFC6265 Cookies and Cookie Jar - tough-cookie hastily hacked to run in nativescript",
   "keywords": [
     "HTTP",
     "cookie",
@@ -44,13 +48,13 @@
     "RFC2965"
   ],
   "version": "2.3.2",
-  "homepage": "https://github.com/salesforce/tough-cookie",
+  "homepage": "https://github.com/jcfergus/tough-cookie-nativescript",
   "repository": {
     "type": "git",
-    "url": "git://github.com/salesforce/tough-cookie.git"
+    "url": "git://github.com/jcfergus/tough-cookie-nativescript.git"
   },
   "bugs": {
-    "url": "https://github.com/salesforce/tough-cookie/issues"
+    "url": "https://github.com/jcfergus/tough-cookie-nativescript/issues"
   },
   "main": "./lib/cookie",
   "files": [
